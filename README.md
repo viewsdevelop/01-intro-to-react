@@ -2,21 +2,15 @@
 
 ## Goals
 
-- [ ] Describe the Virtual DOM and its use case in React
 - [ ] Explain the ReactDOM.render() method including what arguments it takes and why it’s important
 - [ ] Explain the difference between declarative and imperative programming
 - [ ] Explain the benefits of components and writing modular code
 - [ ] Explain what JSX is and the difference between JSX and HTML
-- [ ] Scaffold a new app using create-react-app
 
 ## Objectives
 
 - Segment 1: Why React?
     - Declarative vs. Imperative Programming
-    - Virtual DOM
-    - Using create-react-app to scaffold a React application
-        - Review file structure
-        - Dissect .render() method
 - Segment 2: Components
     - What's a Component?
     - Why Use Components?
